@@ -242,7 +242,7 @@ For questions:
 
 ---
 
-## 📱 App Store Compliance
+## App Store Compliance
 
 ### Apple App Store
 This app complies with Apple's App Store Review Guidelines and Developer Program License Agreement.
@@ -252,7 +252,7 @@ This app complies with Google Play Developer Program Policies and Developer Dist
 
 ---
 
-## 🔄 Changes to Terms
+## Changes to Terms
 
 We may update these Terms of Service from time to time. Continued use of the app after changes constitutes acceptance of the new terms. Significant changes will be notified through:
 - In-app notification
@@ -261,7 +261,7 @@ We may update these Terms of Service from time to time. Continued use of the app
 
 ---
 
-## ✅ Summary of Key Points / Önemli Noktaların Özeti
+## Summary of Key Points / Önemli Noktaların Özeti
 
 | Topic | Summary |
 |-------|---------|
