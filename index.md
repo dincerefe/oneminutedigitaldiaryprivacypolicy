@@ -1,6 +1,6 @@
-# Digital Diary
+# One Minute Digital Diary
 
-Welcome to Digital Diary legal documents page.
+Welcome to One MinuteDigital Diary legal documents page.
 
 ## Documents / Belgeler
 
@@ -9,4 +9,4 @@ Welcome to Digital Diary legal documents page.
 
 ---
 
-© 2025 Digital Diary. All rights reserved.
+© 2025 One Minute Digital Diary. All rights reserved.
