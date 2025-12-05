@@ -1,6 +1,6 @@
 # Terms of Service / Kullanım Koşulları
 
-**Last Updated / Son Güncelleme: December 4, 2025**
+**Last Updated / Son Güncelleme: December 5, 2025**
 
 ---
 
@@ -256,12 +256,11 @@ This app complies with Google Play Developer Program Policies and Developer Dist
 
 We may update these Terms of Service from time to time. Continued use of the app after changes constitutes acceptance of the new terms. Significant changes will be notified through:
 - In-app notification
-- Email notification
 - App store update notes
 
 ---
 
-**Effective Date / Yürürlük Tarihi**: December 4, 2025
+**Effective Date / Yürürlük Tarihi**: December 5, 2025
 **Version / Versiyon**: 1.0
 
 © 2025 Digital Diary. All rights reserved.
