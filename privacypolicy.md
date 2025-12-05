@@ -8,7 +8,7 @@
 
 ### 1. Giriş
 
-Digital Diary ("Uygulama", "biz", "bizim") olarak gizliliğinize saygı duyuyor ve kişisel verilerinizi korumayı taahhüt ediyoruz. Bu Gizlilik Politikası, uygulamamızı kullandığınızda hangi bilgileri topladığımızı, nasıl kullandığımızı ve koruduğumuzu açıklamaktadır.
+One Minute Digital Diary ("Uygulama", "biz", "bizim") olarak gizliliğinize saygı duyuyor ve kişisel verilerinizi korumayı taahhüt ediyoruz. Bu Gizlilik Politikası, uygulamamızı kullandığınızda hangi bilgileri topladığımızı, nasıl kullandığımızı ve koruduğumuzu açıklamaktadır.
 
 Bu politika, 6698 sayılı Kişisel Verilerin Korunması Kanunu (KVKK), Avrupa Birliği Genel Veri Koruma Tüzüğü (GDPR) ve California Tüketici Gizlilik Yasası (CCPA) dahil olmak üzere uluslararası veri koruma düzenlemelerine uygun olarak hazırlanmıştır.
 
@@ -114,7 +114,7 @@ Gizlilik ile ilgili sorularınız için:
 
 ### 1. Introduction
 
-Digital Diary ("App", "we", "our") respects your privacy and is committed to protecting your personal data. This Privacy Policy explains what information we collect when you use our app, how we use it, and how we protect it.
+One Minute Digital Diary ("App", "we", "our") respects your privacy and is committed to protecting your personal data. This Privacy Policy explains what information we collect when you use our app, how we use it, and how we protect it.
 
 This policy has been prepared in compliance with international data protection regulations including the European Union General Data Protection Regulation (GDPR), California Consumer Privacy Act (CCPA), and Turkish Personal Data Protection Law (KVKK).
 
@@ -219,7 +219,7 @@ For privacy-related questions:
 
 ### 1. Einleitung
 
-Digital Diary ("App", "wir", "unser") respektiert Ihre Privatsphäre und verpflichtet sich zum Schutz Ihrer personenbezogenen Daten. Diese Datenschutzrichtlinie erläutert, welche Informationen wir bei der Nutzung unserer App erfassen, wie wir sie verwenden und wie wir sie schützen.
+One Minute Digital Diary ("App", "wir", "unser") respektiert Ihre Privatsphäre und verpflichtet sich zum Schutz Ihrer personenbezogenen Daten. Diese Datenschutzrichtlinie erläutert, welche Informationen wir bei der Nutzung unserer App erfassen, wie wir sie verwenden und wie wir sie schützen.
 
 Diese Richtlinie wurde in Übereinstimmung mit internationalen Datenschutzbestimmungen erstellt, einschließlich der Datenschutz-Grundverordnung (DSGVO) der Europäischen Union.
 
@@ -252,4 +252,4 @@ Für datenschutzbezogene Fragen:
 **Effective Date / Yürürlük Tarihi**: December 5, 2025
 **Version / Versiyon**: 1.0
 
-© 2024 Digital Diary. All rights reserved.
+© 2025 One Minute Digital Diary. All rights reserved.
